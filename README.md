@@ -7,6 +7,7 @@ Problem link are:
 2. https://lightoj.com/problem/discovering-permutations </br>
 3. https://lightoj.com/problem/triangle-partitioning </br>
 4. https://lightoj.com/problem/crossed-ladders </br>
+5. https://lightoj.com/problem/be-efficient</br>
 
 
 
