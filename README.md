@@ -3,10 +3,10 @@
 Light-Oj profile:https://lightoj.com/user/roys22127
 
 Problem link are:
-https://lightoj.com/problem/hex-a-bonacci </br>
-https://lightoj.com/problem/discovering-permutations
-https://lightoj.com/problem/triangle-partitioning
-https://lightoj.com/problem/crossed-ladders
+1. https://lightoj.com/problem/hex-a-bonacci </br>
+2. https://lightoj.com/problem/discovering-permutations </br>
+3. https://lightoj.com/problem/triangle-partitioning </br>
+4. https://lightoj.com/problem/crossed-ladders </br>
 
 
 
