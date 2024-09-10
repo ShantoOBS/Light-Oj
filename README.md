@@ -8,7 +8,7 @@ Problem link are:
 3. https://lightoj.com/problem/triangle-partitioning </br>
 4. https://lightoj.com/problem/crossed-ladders </br>
 5. https://lightoj.com/problem/be-efficient</br>
-6.https://lightoj.com/problem/expanding-rods</br>
+6. https://lightoj.com/problem/expanding-rods</br>
 
 
 
