@@ -10,6 +10,7 @@ Problem link are:
 5. https://lightoj.com/problem/expanding-rods</br>
 6. https://lightoj.com/problem/be-efficient</br>
 7. https://lightoj.com/problem/false-ordering
+8. https://lightoj.com/problem/mathematically-hard
 
 
 
