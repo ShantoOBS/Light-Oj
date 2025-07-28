@@ -11,6 +11,7 @@ Problem link are:
 6. https://lightoj.com/problem/be-efficient</br>
 7. https://lightoj.com/problem/false-ordering
 8. https://lightoj.com/problem/mathematically-hard
+9. https://lightoj.com/problem/guilty-prince
 
 
 
